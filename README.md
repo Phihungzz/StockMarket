@@ -173,22 +173,22 @@ Sau đó chạy lần lượt các ô lệnh từ trên xuống dưới.
 # Quy trình thực hiện
 
 ```
-Thu thập dữ liệu
+  Thu thập dữ liệu
         │
         ▼
-Tiền xử lý dữ liệu
+ Tiền xử lý dữ liệu
         │
         ▼
-Tính Log Return
+  Tính Log Return
         │
         ▼
-Tạo Lag Features
+  Tạo Lag Features
         │
         ▼
 Huấn luyện Linear Regression
         │
         ▼
-Dự đoán
+     Dự đoán
         │
         ▼
 Sinh tín hiệu Buy/Sell
